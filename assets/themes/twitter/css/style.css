@@ -69,3 +69,8 @@ html, body {
 	color:#FFF;
 }
 	
+
+
+.post_body img {
+  max-width: 500px;
+}
