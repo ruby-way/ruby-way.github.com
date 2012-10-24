@@ -13,7 +13,7 @@ tags: [test_post ruby]
 text ...
 
 
-(link)[http://google.com]
+[link](http://google.com)
 
 <div>
   div
